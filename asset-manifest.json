@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/germanpgonzalez/TodoMachine/static/css/main.88fb2990.css",
+    "main.js": "/germanpgonzalez/TodoMachine/static/js/main.9b6c8695.js",
+    "index.html": "/germanpgonzalez/TodoMachine/index.html",
+    "main.88fb2990.css.map": "/germanpgonzalez/TodoMachine/static/css/main.88fb2990.css.map",
+    "main.9b6c8695.js.map": "/germanpgonzalez/TodoMachine/static/js/main.9b6c8695.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88fb2990.css",
+    "static/js/main.9b6c8695.js"
+  ]
+}
